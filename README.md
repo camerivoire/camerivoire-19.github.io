@@ -1,1 +1,1 @@
-# camerivoire-19.github.io
+# camerivoire.github.io
