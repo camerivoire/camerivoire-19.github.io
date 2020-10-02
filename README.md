@@ -273,7 +273,7 @@
           pagecloud-guid="51b5b60c-30d2-40e2-8c58-9e946eaad04b"
           data-aspect-ratio="311x66"
           pagecloud-version="1.0.0"
-          data-original-image="//siteassets.pagecloud.com/myhackerspaces/images/image-t5310.png"
+          data-original-image="//https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w100/nth.png"
           data-original-ratio="311x66"
           data-alt-aspect-ratio="394x92"
           ><style
