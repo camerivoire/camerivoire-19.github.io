@@ -1,58 +1,13 @@
-
 <html lang="fr">
 	<head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"> 
-        <link rel="stylesheet" href="https://github.com/camerivoire/camerivoire.github.io/blob/master/style.css">
-	
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="stylesheet" media="print" href="https://vpnpro.com/wp-content/cache/autoptimize/css/autoptimize_ad1af280be8bba77ed095e6a9563e7eb.css" onload="this.onload=null;this.media='all';" />
-		<noscript id="aonoscrcss">
-	        <link media="all" href="https://vpnpro.com/wp-content/cache/autoptimize/css/autoptimize_ad1af280be8bba77ed095e6a9563e7eb.css" rel="stylesheet" />
-		</noscript>
-		<title>The Best VPN Services for 2020 (We Tested 200+ VPNs)</title>
-		<meta name="description" content="We&#039;ve tested hundreds of VPNs and picked out the top 10 best VPN services for 2020 that scored the best in each and every category." />
-		<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-		<link rel="canonical" href="https://vpnpro.com/best-vpn-services/" /><meta property="og:locale" content="en_US" />
-		<meta property="og:type" content="article" />
-		<meta property="og:title" content="The Best VPN Services for 2020 (We Tested 200+ VPNs)" />
-		<meta property="og:description" content="We&#039;ve tested hundreds of VPNs and picked out the top 10 best VPN services for 2020 that scored the best in each and every category." />
-		<meta property="og:url" content="https://vpnpro.com/best-vpn-services/" />
-		<meta property="og:site_name" content="VPNpro" />
-		<meta property="article:modified_time" content="2020-10-08T13:39:47+00:00" />
-		<meta property="og:image" content="https://vpnpro.com/wp-content/uploads/Overall.jpg" />
-		<meta property="og:image:width" content="800" />
-		<meta property="og:image:height" content="250" />
-		<meta property="fb:app_id" content="260607161396598" />
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:creator" content="@vpnpro" />
-		<meta name="twitter:site" content="@vpnpro" /> 
-		<script type="application/ld+json" class="yoast-schema-graph">
-		{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://vpnpro.com/#website","url":"https://vpnpro.com/","name":"VPNpro","description":"VPN reviews, guides, trends and more","publisher":{"@id":"https://vpnpro.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://vpnpro.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://vpnpro.com/best-vpn-services/#primaryimage","inLanguage":"en-US","url":"https://vpnpro.com/wp-content/uploads/Overall.jpg","width":800,"height":250,"caption":"devices with vpn on screens"},{"@type":"WebPage","@id":"https://vpnpro.com/best-vpn-services/#webpage","url":"https://vpnpro.com/best-vpn-services/","name":"The Best VPN Services for 2020 (We Tested 200+ VPNs)","isPartOf":{"@id":"https://vpnpro.com/#website"},"primaryImageOfPage":{"@id":"https://vpnpro.com/best-vpn-services/#primaryimage"},"datePublished":"2020-10-08","dateModified":"2020-10-08","description":"We've tested hundreds of VPNs and picked out the top 10 best VPN services for 2020 that scored the best in each and every category.","breadcrumb":{"@id":"https://vpnpro.com/best-vpn-services/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://vpnpro.com/best-vpn-services/"]}]},{"@type":"BreadcrumbList","@id":"https://vpnpro.com/best-vpn-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://vpnpro.com/","url":"https://vpnpro.com/","name":"VPNpro"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://vpnpro.com/best-vpn/","url":"https://vpnpro.com/best-vpn/","name":"Best VPN"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://vpnpro.com/best-vpn-services/","url":"https://vpnpro.com/best-vpn-services/","name":"Best VPN Services for 2020"}}]}]}
-		</script>
-		<meta property="article:published_time" content="2020-10-08T13:39:47+00:00" />
-		<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
-		<link rel='dns-prefetch' href='//s.w.org' />
-		<link rel="alternate" hreflang="cs" href="https://cs.vpnpro.com/nejlepsi-vpn-sluzby/" />
-		<link rel="alternate" hreflang="da" href="https://da.vpnpro.com/bedste-vpn-tjenester/" />
-		<link rel="alternate" hreflang="de" href="https://de.vpnpro.com/die-besten-vpn-anbieter/" />
-		<link rel="alternate" hreflang="en" href="https://vpnpro.com/best-vpn-services/" />
-		<link rel="alternate" hreflang="x-default" href="https://vpnpro.com/best-vpn-services/" />
-		<link rel="alternate" hreflang="es" href="https://es.vpnpro.com/mejores-servicios-de-vpn/" />
-		<link rel="alternate" hreflang="fi" href="https://fi.vpnpro.com/parhaat-vpn-palvelut/" />
-		<link rel="alternate" hreflang="fr" href="https://fr.vpnpro.com/meilleurs-fournisseurs-vpn/" />
-		<link rel="alternate" hreflang="it" href="https://it.vpnpro.com/lp/migliori-alternative-alle-vpn-gratuite/" />
-		<link rel="alternate" hreflang="nb" href="https://nb.vpnpro.com/beste-vpn-tjenestene/" />
-		<link rel="alternate" hreflang="nl" href="https://nl.vpnpro.com/beste-vpn-services/" />
-		<link rel="alternate" hreflang="pl" href="https://pl.vpnpro.com/najlepsze-vpn-uslugi/" />
-		<link rel="alternate" hreflang="pt" href="https://pt.vpnpro.com/melhores-servicos-vpn/" />
-		<link rel="alternate" hreflang="ru" href="https://ru.vpnpro.com/luchshie-vpn-servisy/" />
-		<link rel="alternate" hreflang="sv" href="https://sv.vpnpro.com/basta-vpn-tjansterna/" />
-		<meta name="referrer" content="no-referrer" />
-		<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://vpnpro.com/wp-includes/wlwmanifest.xml" />
-		<link rel="alternate" type="application/json+oembed" href="https://vpnpro.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvpnpro.com%2Fbest-vpn-services%2F" />
-		<link rel="alternate" type="text/xml+oembed" href="https://vpnpro.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvpnpro.com%2Fbest-vpn-services%2F&#038;format=xml" />
-		<meta name="framework" content="Redux 4.1.20" />
+  <link rel="stylesheet" href="https://github.com/camerivoire/camerivoire.github.io/blob/master/style.css">	
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" media="print" href="https://vpnpro.com/wp-content/cache/autoptimize/css/autoptimize_ad1af280be8bba77ed095e6a9563e7eb.css" onload="this.onload=null;this.media='all';" />
+	<meta property="article:published_time" content="2020-10-08T13:39:47+00:00" />
+	<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+	<link rel='dns-prefetch' href='//s.w.org' />		
 	</head>
 	<body id="body" class="page-template page-template-best-of-winner-template page-template-best-of-winner-template-php page page-id-1274 sidebar-mobile-post-page"> 
 		<noscript>
@@ -78,11 +33,10 @@
 						<nav class="headerNavigationBody mainNavigation">
 							<!--debut ul-->
 							<ul id="menu-primary-menu" class="menu">
-								<li id="menu-item-46181" class="mainNavigationDeepMenu menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1274 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-46181">
-								
+								<li id="menu-item-46181" class="mainNavigationDeepMenu menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1274 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-46181">								
 									<span class="mainNavigationLinkWrapper">							
 										<a href="https://vpnpro.com/best-vpn-services/" aria-current="page">Best VPN</a>
-									</span>
+									</span>									
 									
 									<ul class="sub-menu">
 										<li id="menu-item-37142" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-37142">					
@@ -431,19 +385,18 @@
 					</div> 
 					<a itemprop="mainEntityOfPage" href="https://camerivoire.github.io/" class="hidden"></a>
 					<div class="sectionBody sectionBody-widthNarrow">
-						<div class="verticalSpace verticalSpace-directionBottom verticalSpace-xl">
-							
+						<div class="verticalSpace verticalSpace-directionBottom verticalSpace-xl">					
 							<div class="verticalSpace verticalSpace-responsive verticalSpace-directionBottom">
-								<h1 class="head head-1" itemprop="headline"> Best VPN Services for 2020</h1>
+								<h1 class="head head-1" itemprop="headline"> Hacking 2020</h1>
 							</div>
 							
 							<div class="verticalSpace verticalSpace-m verticalSpace-directionBottom">
 								<div class="grid grid-noWrap grid-verticalAlignCenter">
 									<div class="gridItem text text-colorLightestOnWhite">
 										<div class="text-singleLine text-colorRegular"> 
-											<a href="https://vpnpro.com/author/ethan-payne/" class="link link-typeSimple text-weightBold">Ethan Payne</a>
+											<a href="https://camerivoire.github.io/about/author.md" class="link link-typeSimple text-weightBold">Faxel</a>
 										</div>
-										 <div class="verticalSpace verticalSpace-xs text text-sizeSmallest"> Last updated: October 8, 2020
+										 <div class="verticalSpace verticalSpace-xs text text-sizeSmallest"> Last updated: October 10 , 2020
 										</div>
 									</div>
 								</div>
@@ -479,10 +432,10 @@
 									</p>
 									<div class="best-providers-table"><div class="best-of-table-headings">
 										<div class="best-of-table-position">#</div>
-										<div class="best-of-table-provider">PROVIDER</div>
+										<div class="best-of-table-provider">Outils</div>
 										<div class="best-of-table-min-price">
 											<span class="mediaBox mediaBox-forDesktop mediaBox-forTablet">SCORE</span>
-											<span class="mediaBox mediaBox-forPhone">SCORE</span>
+											<span class="mediaBox mediaBox-forPhone">Rang</span>
 										</div>
 										</div>
 										<div class="best-of-table-item">
@@ -490,9 +443,9 @@
 											<div class="best-of-table-provider">
 												<div class="best-of-table-provider-row"> 
 													<span class="img-placeholder">
-														<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://vpnpro.com/wp-content/uploads/Nord-VPN-review-60x60.jpg" alt="NordVPN">
+														<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://raw.githubusercontent.com/Phantom-19/bash/master/avatar/avatar.png" alt="NordVPN">
 													</span>
-													<a class="click" href="//vpnpro.com/?clickout=nordvpn" rel="nofollow noopener noreferrer" data-js-show-leave-banner=".modal1" data-slug="nordvpn" data-position="1" data-lineup="best-of-table" data-clickout="true" data-label="best-providers-table" target="_blank">
+													<a class="click" href="//camerivoire.github.io/?clickout=camerivoire" rel="nofollow noopener noreferrer" data-js-show-leave-banner=".modal1" data-slug="nordvpn" data-position="1" data-lineup="best-of-table" data-clickout="true" data-label="best-providers-table" target="_blank">
 														<span class="brand-name">
 															<span class="best-of-table-position best-of-table-mobile-position">1.</span>NordVPN
 															<span class="actionIcon actionIcon-narrow icon fa fa-angle-right"></span>
@@ -507,11 +460,11 @@
 										<div class="best-of-table-provider">
 											<div class="best-of-table-provider-row"> 
 												<span class="img-placeholder">
-													<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://vpnpro.com/wp-content/uploads/SurfShark-small-60x60.jpg" alt="Surfshark VPN">
+													<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://raw.githubusercontent.com/Phantom-19/bash/master/avatar/avatar.png" alt="Surfshark VPN">
 												</span>
-												<a class="click" href="//vpnpro.com/?clickout=surfshark" rel="nofollow noopener noreferrer" data-js-show-leave-banner=".modal0" data-slug="surfsharkvpn" data-position="2" data-lineup="best-of-table" data-clickout="true" data-label="best-providers-table" target="_blank">
+												<a class="click" href="//camerivoire.github.io/?clickout=camerivoire" rel="nofollow noopener noreferrer" data-js-show-leave-banner=".modal0" data-slug="surfsharkvpn" data-position="2" data-lineup="best-of-table" data-clickout="true" data-label="best-providers-table" target="_blank">
 													<span class="brand-name">
-														<span class="best-of-table-position best-of-table-mobile-position">2.</span>Surfshark VPN
+														<span class="best-of-table-position best-of-table-mobile-position">2.</span>Best Hack Method 1
 														<span class="actionIcon actionIcon-narrow icon fa fa-angle-right"></span>
 													</span>
 												</a>
@@ -529,7 +482,7 @@
 											<div class="best-of-table-provider">
 												<div class="best-of-table-provider-row"> 
 													<span class="img-placeholder">
-														<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://vpnpro.com/wp-content/uploads/vypervpn-1-60x60.jpg" alt="VyprVPN">
+														<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://raw.githubusercontent.com/Phantom-19/bash/master/avatar/avatar.png" alt="VyprVPN">
 													</span>
 													<a class="click" href="//vpnpro.com/?clickout=vypr" rel="nofollow noopener noreferrer" data-js-show-leave-banner=".modal0" data-slug="vyprvpn" data-position="3" data-lineup="best-of-table" data-clickout="true" data-label="best-providers-table" target="_blank"><span class="brand-name"><span class="best-of-table-position best-of-table-mobile-position">3.</span>VyprVPN
 														<span class="actionIcon actionIcon-narrow icon fa fa-angle-right"></span>
@@ -549,7 +502,7 @@
 											<div class="best-of-table-provider">
 												<div class="best-of-table-provider-row"> 
 													<span class="img-placeholder">
-														<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://vpnpro.com/wp-content/uploads/PrivateVPN-small-60x60.jpg" alt="PrivateVPN">
+														<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://raw.githubusercontent.com/Phantom-19/bash/master/avatar/avatar.png" alt="Hack">
 													</span>
 													<a href="#4privatevpn">
 														<span class="brand-name">
@@ -573,7 +526,7 @@
 											<div class="best-of-table-provider">
 												<div class="best-of-table-provider-row"> 
 													<span class="img-placeholder">
-														<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://vpnpro.com/wp-content/uploads/pia-2-60x60.jpg" alt="Private Internet Access">
+														<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://raw.githubusercontent.com/Phantom-19/bash/master/avatar/avatar.png" alt="Private Internet Access">
 													</span>
 													<a href="#5privateinternetaccess">
 														<span class="brand-name">
@@ -601,10 +554,11 @@
 												  --provider-logo-height: 77px; --provider-logo-tablet-width: 160px;
 													--provider-logo-tablet-height: 70px;--provider-logo-phone-width: 80px;
 													--provider-logo-phone-height: 80px;--provider-logo-padding: 8px;"> 
-													<source srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-srcset="https://vpnpro.com/wp-content/uploads/NordVPN-review-170x89.jpg" media="(min-width: 768px)"> 
-													<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://vpnpro.com/wp-content/uploads/Nord-VPN-review.jpg" alt="NordVPN service logo"> 
+													<source srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-srcset="https://raw.githubusercontent.com/Phantom-19/bash/master/avatar/avatar.png" media="(min-width: 768px)"> 
+													<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://raw.githubusercontent.com/Phantom-19/bash/master/avatar/avatar.png" alt="NordVPN service logo"> 
 												</picture>
-											</div><div class="gridItem gridItem-widthFill">
+											</div>
+											<div class="gridItem gridItem-widthFill">
 											<div class="grid grid-verticalAlignCenter" style="--grid-spacing: 4px;">
 												<div class="gridItem" style="--grid-item-left-spacing: calc(var(--spacing-m) + var(--grid-spacing))"> 
 													<strong class="text text-weightBold text-lineSpacingSame" style="--text-size: 24px;">9.6</strong>
@@ -1136,28 +1090,14 @@
 									<div class="commentMessageHeader"> <strong class="commentMessageAuthor"> Danny K. </strong> <span class="commentMessageDelimiter"></span> <time class="commentMessageMetaInfo" datetime="2020-03-03T11:13:12+00:00"> March 3, 2020 at 11:13 am </time></div><div class="commentMessageBody"><div class="commentMessageContent"><p>I did try many providers. Starting from free ones and finishing with expensive. I was quite sceptical about NordVPN at first, but I was wrong. I use it for 3 years now, and I enjoy it. Could be cheaper I guess, but it works with Netflix.</p></div><footer class="commentMessageActions"> <a rel='nofollow' class='comment-reply-link' href='#comment-7696' data-commentid="7696" data-postid="1274" data-belowelement="comment-7696" data-respondelement="respond" aria-label='Reply to Danny K.'><span class="commentMessageAction">Reply</span></a></footer></div></div></li>
 	 
 	 
-	
-	 
-	 
-	
 	 
 	 
 	 <div class="commentMessageHeader"> <strong class="commentMessageAuthor"> Tearlach Lanoie </strong> <span class="commentMessageDelimiter"></span> <time class="commentMessageMetaInfo" datetime="2019-07-28T09:37:38+00:00"> July 28, 2019 at 9:37 am </time></div><div class="commentMessageBody"><div class="commentMessageContent"><p>It&#8217;s hard to find a very good vpn app from where I am but windscribe worked very well giving me 10Gb of free data per month. Simple to use and fast. Limited number of servers available at the moment, but one can&#8217;t expect too many through a free VPN. Thanks to the developers for creating this app and putting our privacy first</p></div><footer class="commentMessageActions"> <a rel='nofollow' class='comment-reply-link' href='#comment-6236' data-commentid="6236" data-postid="1274" data-belowelement="comment-6236" data-respondelement="respond" aria-label='Reply to Tearlach Lanoie'><span class="commentMessageAction">Reply</span></a></footer></div></div><ol class="children"><li class="comment byuser comment-author-ethan-payne bypostauthor even depth-2 comment-static comment-num_61" id="li-comment-6412"><hr class="commentMessageSeparator" /><div id="comment-6412" class="commentMessage"><div class="commentMessageAvatarWrapper"> <img class="avatar lazyload" style="background-color: hsl(240, 33%, 73% );" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2040%201%27%2F%3E" data-src="/wp-content/themes/bone/img/defaultAvatar/defaultAvatarImage.svg" alt="" /></div><div class="commentMessageHeader"> <strong class="commentMessageAuthor"> Ethan Payne </strong> <span class="commentMessageDelimiter commentMessageDelimiter-space"></span> <span class="authorBadge">Author</span> <span class="commentMessageDelimiter"></span> <time class="commentMessageMetaInfo" datetime="2019-08-09T10:34:13+00:00"> August 9, 2019 at 10:34 am </time></div><div class="commentMessageBody"><div class="commentMessageContent"><p>Hi Tearlach, Windscribe has a great free version, but if you ever outgrow its 10 GB data limit, make sure to try <a href="https://vpnpro.com/vpn-reviews/protonvpn-review/">ProtonVPN</a> as well: their free plan doesn&#8217;t limit your bandwidth, so you&#8217;ll be able to browse away as much as you want.</p></div><footer class="commentMessageActions"> <a rel='nofollow' class='comment-reply-link' href='#comment-6412' data-commentid="6412" data-postid="1274" data-belowelement="comment-6412" data-respondelement="respond" aria-label='Reply to Ethan Payne'><span class="commentMessageAction">Reply</span>
-	 </a></footer></div></div></li>
-	 
-	 </ol></li></ol>
-
-
-
-
-
-
-
+	 </a></footer></div></div></li> </ol></li></ol>
 
 
 
 <div data-js-show-comments class="verticalSpace verticalSpace-l" onclick="handleShowCommentsClick()"> <button data-js-show-comments-button class="button button-sizeBig button-widthBlock button-styleOutlined"> Show more comments </button></div>
-
 
 
 <script>
@@ -1685,8 +1625,8 @@
 												addCaptchaInitTrigger();
 											});
 										}            
-</script>             
-<script defer src="https://vpnpro.com/wp-content/cache/autoptimize/js/autoptimize_13c5162f3bb22203aa79e215636ae9a8.js">            
-</script>            
-</body>            
+    </script>             
+   <script defer src="https://vpnpro.com/wp-content/cache/autoptimize/js/autoptimize_13c5162f3bb22203aa79e215636ae9a8.js">            
+  </script>            
+ </body>            
 </html>
