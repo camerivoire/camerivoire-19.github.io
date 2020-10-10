@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 	<head>
 	<meta charset="UTF-8">
@@ -24,14 +24,12 @@
 				ga('send', 'pageview');
 			});
 		</script>
-	
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	
 		<link rel="stylesheet" media="print" href="https://vpnpro.com/wp-content/cache/autoptimize/css/autoptimize_ad1af280be8bba77ed095e6a9563e7eb.css" onload="this.onload=null;this.media='all';" />
 		<noscript id="aonoscrcss">
-			<link media="all" href="https://vpnpro.com/wp-content/cache/autoptimize/css/autoptimize_ad1af280be8bba77ed095e6a9563e7eb.css" rel="stylesheet" />
-		</noscript><title>The Best VPN Services for 2020 (We Tested 200+ VPNs)
-		</title>
+	        <link media="all" href="https://vpnpro.com/wp-content/cache/autoptimize/css/autoptimize_ad1af280be8bba77ed095e6a9563e7eb.css" rel="stylesheet" />
+		</noscript>
+		<title>The Best VPN Services for 2020 (We Tested 200+ VPNs)</title>
 		<meta name="description" content="We&#039;ve tested hundreds of VPNs and picked out the top 10 best VPN services for 2020 that scored the best in each and every category." />
 		<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 		<link rel="canonical" href="https://vpnpro.com/best-vpn-services/" /><meta property="og:locale" content="en_US" />
